@@ -3,7 +3,7 @@ let showcaseImg = document.getElementById("showcase");
 let showButton = document.getElementById("showcaseButton")
 
 // Images
-let source = "/resources/portfolioShow/photo_";
+let source = "resources/portfolioShow/photo_";
 let maxFile = 32;
 
 // Helping variables :) wow they are so nice
