@@ -1,3 +1,3 @@
 # Ajiiiiith
 
-Portfolio Website for myself
+Portfolio Website for myselff
