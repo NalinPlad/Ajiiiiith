@@ -18,6 +18,23 @@ main {
     margin-top: 50vh;
 }
 
+.githublink {
+    font-size: 15pt;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+
+    transition: all 0.25s;
+}
+
+.githublink:hover {
+    background-color: gold;
+    transform: rotate(3deg);
+    padding: 15px;
+}
+
 /*
 Modified from https://codepen.io/creatz/pen/pooBeev
 */
